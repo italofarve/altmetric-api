@@ -1,0 +1,93 @@
+{
+    "added_on": 1422735780,
+    "altmetric_id": 3212820,
+    "altmetric_jid": "4f6fa5163cf058f610003786",
+    "cited_by_accounts_count": 3,
+    "cited_by_posts_count": 3,
+    "cited_by_wikipedia_count": 3,
+    "cohorts": [],
+    "context": {
+        "all": {
+            "count": 6900838,
+            "higher_than": 4518731,
+            "mean": 6.1934479863797,
+            "pct": 65,
+            "rank": 1605921
+        },
+        "journal": {
+            "count": 260,
+            "higher_than": 91,
+            "mean": 3.5884942084942,
+            "pct": 35,
+            "rank": 56
+        },
+        "similar_age_3m": {
+            "count": 231632,
+            "higher_than": 164373,
+            "mean": 7.9125498055098,
+            "pct": 70,
+            "rank": 63819
+        },
+        "similar_age_journal_3m": {
+            "count": 7,
+            "higher_than": 3,
+            "mean": 8.705,
+            "pct": 42,
+            "rank": 4
+        }
+    },
+    "details_url": "http://www.altmetric.com/details.php?citation_id=3212820",
+    "doi": "10.1101/sqb.1953.018.01.020",
+    "history": {
+        "1d": 0,
+        "1m": 0,
+        "1w": 0,
+        "1y": 3,
+        "2d": 0,
+        "3d": 0,
+        "3m": 0,
+        "4d": 0,
+        "5d": 0,
+        "6d": 0,
+        "6m": 0,
+        "at": 3
+    },
+    "images": {
+        "large": "https://altmetric-badges.a.ssl.fastly.net/?size=180&score=3&types=wwwwwwww",
+        "medium": "https://altmetric-badges.a.ssl.fastly.net/?size=100&score=3&types=wwwwwwww",
+        "small": "https://altmetric-badges.a.ssl.fastly.net/?size=64&score=3&types=wwwwwwww"
+    },
+    "is_oa": false,
+    "issns": [
+        "1943-4456",
+        "0091-7451"
+    ],
+    "journal": "Cold Spring Harbor Symposia on Quantitative Biology",
+    "last_updated": 1467772152,
+    "pmid": "13168976",
+    "published_on": 1467772860,
+    "publisher_subjects": [
+        {
+            "name": "Biochemistry And Cell Biology",
+            "scheme": "era"
+        }
+    ],
+    "readers": {
+        "citeulike": "3",
+        "connotea": "0",
+        "mendeley": "176"
+    },
+    "readers_count": 179,
+    "schema": "1.5.4",
+    "scopus_subjects": [
+        "Life Sciences",
+        "Biochemistry, Genetics and Molecular Biology"
+    ],
+    "score": 3,
+    "subjects": [
+        "biology"
+    ],
+    "title": "The structure of DNA.",
+    "type": "article",
+    "url": "http://dx.doi.org/10.1101/sqb.1953.018.01.020"
+}
